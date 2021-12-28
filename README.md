@@ -1,5 +1,5 @@
 
--  🌱  I’m currently learning Python, SQL, Git&GitHub, HTML, CSS, JS,Bootstrap, React.js, Redux, Django, Postgresql ...
+-  🌱  I’m currently learning Python, SQL, Git&GitHub, HTML, CSS, JS,Bootstrap, Material UI, React.js, Redux, Django, Postgresql, RestfulAPI ...
 -  👯  Enthusiastic Front-end Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  ✨  A lifelong learner. 
