@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Eyup Kirci
 ####Frontend Developer
-[](https://giphy.com/embed/iIqmM5tTjmpOB9mpbn)
+![Frontend Developer](https://giphy.com/embed/iIqmM5tTjmpOB9mpbn)
 
 
 -  🌱  I’m currently learning HTML, CSS,JS,Bootstrap, Material UI, React.js, Redux, 
