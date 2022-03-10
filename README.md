@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Eyup Kirci
 #### Frontend Developer
-![Frontend Developer](https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn)
+![Frontend Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 -  🌱  I’m currently learning HTML, CSS,JS,Bootstrap, Material UI, React.js, Redux, 
 -  Having knowledge in Python, Django, SQL, Postgresql, RestfulAPI, 
