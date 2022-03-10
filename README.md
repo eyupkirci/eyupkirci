@@ -17,8 +17,6 @@
 
 <img src="https://github.com/eyupkirci/eyupkirci/blob/main/ss.png?raw=true">
 <img src="https://github-readme-stats.vercel.app/api?username=eyupkirci&count_private=true&show_icons=true&theme=merko" > 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupkirci&layout=compact&theme=merko" />
-
 
 ![](https://komarev.com/ghpvc/?username=eyupkirci)
 <br>
