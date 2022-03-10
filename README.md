@@ -15,8 +15,16 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?hl=tr&tf=cm&fs=1&to=eyupkirci@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eyupkirci)
 
-<img src="https://github.com/eyupkirci/eyupkirci/blob/main/ss.png?raw=true">
-<img src="https://github-readme-stats.vercel.app/api?username=eyupkirci&count_private=true&show_icons=true&theme=merko" > 
+## 📈 Statistics
 
 ![](https://komarev.com/ghpvc/?username=eyupkirci)
 <br>
+
+
+<p align="left">
+ <img src="https://github-readme-stats.vercel.app/api?username=eyupkirci&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyupkirci&theme=chartreuse-dark" alt="my commit status" width="49%" />
+</p>
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupkirci&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
+</p>
