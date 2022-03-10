@@ -4,8 +4,8 @@
 
 -  🌱 I’m A lifelong learner. 
 -  ✨ Having knowledge;
--  in Frontend: HTML, CSS, JS, SASS, Bootstrap, Material UI, React.js, React Native, Redux
--  in Backend: Python, Django, Django Rest Framework SQL, Postgresql, RestfulAPI, 
+-  in Frontend: HTML, CSS, JS, SASS, Bootstrap, Material UI, React.js, Redux, and React Native in Mobile Dev
+-  in Backend: Python, Django, Django Rest Framework, SQL, Firebase, Postgresql, RestfulAPIs 
 -  👯 Eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝 Believes in the importance of learning new things every day. 
 -  👨‍💻 Motivated to learn, grow and excel in IT industry.
