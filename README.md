@@ -2,12 +2,13 @@
 #### Frontend Developer
 ![Frontend Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
--  🌱  I’m currently learning HTML, CSS,JS,Bootstrap, Material UI, React.js, Redux, 
--  Having knowledge in Python, Django, SQL, Postgresql, RestfulAPI, 
--  👯  Enthusiastic Front-end Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
--  📝  Believes in the importance of learning new things every day. 
--  ✨  A lifelong learner. 
--  👨‍💻  Motivated to learn, grow and excel in IT industry.
+-  🌱 I’m A lifelong learner. 
+-  ✨ Having knowledge;
+-  in Frontend: HTML, CSS, JS, SASS, Bootstrap, Material UI, React.js, React Native, Redux
+-  in Backend: Python, Django, Django Rest Framework SQL, Postgresql, RestfulAPI, 
+-  👯 Eager to contribute to team success through hard work, attention to details and excellent organizational skills.
+-  📝 Believes in the importance of learning new things every day. 
+-  👨‍💻 Motivated to learn, grow and excel in IT industry.
 -  💬 Please feel free to reach out if you have any questions or suggestions.
 -  😄 You can show some   ❤️    &nbsp; by starring some of the repositories
 -  📫 How to reach me;<br>
