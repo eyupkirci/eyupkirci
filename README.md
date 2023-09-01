@@ -16,12 +16,12 @@
 -  😄 You can show some   ❤️    &nbsp; by starring some of the repositories
 -  📫 How to reach me; -->
 - Programming Languages: TypeScript, JavaScript, Python
-- Frontend: HTML, JavaScript, CSS, Jquery, AJAX, React.js, Redux.js
+- Frontend: HTML, JavaScript, CSS, JQuery, AJAX, React.js, Redux.js
 - Mobile: React Native  
 - Backend: Python, Django, Django Rest Framework, Node.js, Express.js, Passport.js
 - Styling: CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Testing: Jest.js, Cypress.js
-- Database: SQL, PostgreSQL, SQLite3, MongoDB, Firestore
+- Database: SQL, PostgreSQL, SQLite3, MongoDB
 - Tools: Postman, VSCode, Git, GitHub, Jira, Figma
 
 ## 📈 Statistics
