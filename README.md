@@ -28,7 +28,7 @@
 
 ![](https://komarev.com/ghpvc/?username=eyupkirci)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?eyupkirci=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupkirci&show_icons=true)
 <br>
 
 <p align="left">
