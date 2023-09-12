@@ -21,14 +21,15 @@
 - Backend: Python, Django, Django Rest Framework, Node.js, Express.js, Passport.js
 - Styling: CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Testing: Jest.js, Cypress.js
-- Database: SQL, PostgreSQL, SQLite3, MongoDB
-- Tools: Postman, VSCode, Git, GitHub, Jira, Figma
+- Database: SQL, PostgreSQL, SQLite3, NoSQL, MongoDB
+- Tools: Postman, VSCode, Git, GitHub, Trello, Figma, Reactotron
 
 ## 📈 Statistics
 
 ![](https://komarev.com/ghpvc/?username=eyupkirci)
 <br>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?eyupkirci=anuraghazra&show_icons=true)
+<br>
 
 <p align="left">
  <img src="https://github-readme-stats.vercel.app/api?username=eyupkirci&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
