@@ -28,13 +28,9 @@
 
 ![](https://komarev.com/ghpvc/?username=eyupkirci)
 <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eyupkirci&show_icons=true)
-<br>
 
-<p align="left">
- <img src="https://github-readme-stats.vercel.app/api?username=eyupkirci&theme=chartreuse-dark" alt="my github stats" width="49%"/>&nbsp;
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyupkirci&theme=chartreuse-dark" alt="my commit status" width="49%" />
-</p>
-<p align="center">
+
+ <img src="https://github-readme-stats.vercel.app/api?username=eyupkirci&theme=chartreuse-dark" alt="my github stats" width="50%"/>&nbsp;
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=eyupkirci&theme=chartreuse-dark" alt="my commit status" width="50%" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eyupkirci&theme=chartreuse-dark&layout=compact" alt="languages" width="50%">
-</p>
+
