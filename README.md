@@ -16,7 +16,7 @@
 -  😄 You can show some   ❤️    &nbsp; by starring some of the repositories
 -  📫 How to reach me; -->
 - Programming Languages: TypeScript, JavaScript, Python
-- Frontend: HTML, JavaScript, CSS, JQuery, AJAX, React.js, Redux.js
+- Frontend: HTML, JavaScript, CSS, JQuery, AJAX, React.js, Redux.js, i18n
 - Mobile: React Native  
 - Backend: Python, Django, Django Rest Framework, Node.js, Express.js, Passport.js
 - Styling: CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
