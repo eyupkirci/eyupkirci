@@ -16,7 +16,7 @@
 ![Frontend Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 - Programming Languages: TypeScript, JavaScript, Python
-- Frontend: HTML, JavaScript, CSS, JQuery, AJAX, React.js, Redux.js, i18n
+- Frontend: HTML, JavaScript, CSS, JQuery, AJAX, React, Redux, Redux Toolkit, i18n
 - Mobile: React Native  
 - Backend: Python, Django, Django Rest Framework, Node.js, Express.js, Passport.js
 - Styling: CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
