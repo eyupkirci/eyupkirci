@@ -16,9 +16,9 @@
 ![Frontend Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 - Programming Languages: TypeScript, JavaScript, Python
-- Frontend: HTML, JavaScript, CSS, JQuery, AJAX, React, Redux, Redux Toolkit, i18n
+- Frontend: HTML, JavaScript, CSS, JQuery, Axios, React, Redux, Redux Toolkit, i18n
 - Mobile: React Native  
-- Backend: Python, Django, Django Rest Framework, Node.js, Express.js, Passport.js
+- Backend: Node.js, Express.js, Mongoose, Sequelize, Middlewares, JWT, Nodemailer, Multer, Django, Django Rest Framework
 - Styling: CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Testing: Jest.js, Cypress.js
 - Database: SQL, PostgreSQL, SQLite3, NoSQL, MongoDB
