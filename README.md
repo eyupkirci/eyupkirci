@@ -22,7 +22,7 @@
 - Styling: CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
 - Testing: Jest.js, Cypress.js
 - Database: SQL, PostgreSQL, SQLite3, NoSQL, MongoDB
-- Tools: Postman, VSCode, Git, GitHub, Trello, Figma, Reactotron
+- Tools: Postman, VSCode, Docker, Git, GitHub, Trello, Figma, Reactotron
 
 ## 📈 Statistics
 
