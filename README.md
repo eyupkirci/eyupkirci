@@ -16,13 +16,12 @@
 ![Frontend Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 - Programming Languages: TypeScript, JavaScript, Python
-- Frontend: HTML, JavaScript, CSS, JQuery, Axios, React, Redux, Redux Toolkit, i18n
-- Mobile: React Native  
-- Backend: Node.js, Express.js, Mongoose, Sequelize, Middlewares, JWT, Nodemailer, Multer, Django, Django Rest Framework
-- Styling: CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components
-- Testing: Jest.js, Cypress.js
-- Database: SQL, PostgreSQL, SQLite3, NoSQL, MongoDB
-- Tools: Postman, VSCode, Docker, Git, GitHub, Trello, Figma, Reactotron
+- Frontend: HTML-CSS-JS,  React.js, Next.js,  Cypress.js, React, React Native, Redux, Redux Toolkit, Axios, Hooks, i18n
+- Styling: CSS, SASS, Bootstrap, MaterialUI, Tailwind CSS, Styled Components, CSS-In-JS
+- Backend: AWS, Node.js, Express.js, JWT, Firebase, Rest API, GraphQL, Django, FastAPI
+- Database: SQL, SQLite3, Sequelize, MongoDB, Mongoose
+- Tools: TestFlight, Postman, VSCode, Git, Bitbucket, GitHub, GitHub Actions, Reactotron, Docker, Figma, ClickUp
+- App Deployment & Monitoring: App Store, Google Play, TestFlight, Firebase Analytics & Crashlytics
 
 ## 📈 Statistics
 
