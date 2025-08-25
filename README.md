@@ -6,9 +6,7 @@
 
 <!--
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,ts,js,html,css,react,redux,vue,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,jest,django,sqlite,postgres,vscode,postman,github,wordpress&theme=dark&perline=5" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,html,css,react,redux,vue,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,jest,fastapi,sqlite,postgres,vscode,postman,github,wordpress&theme=dark&perline=5" />
 </p>
 -->
 
