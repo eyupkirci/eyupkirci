@@ -10,7 +10,7 @@
 </p>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,ts,js,html,css,react,redux,nodejs,express,pug,jquery,sass,bootstrap,materialui,styledcomponents,tailwind,jest,django,sqlite,postgres,vscode,postman,github,wordpress&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,react,redux,vue,nodejs,express,figma,sass,bootstrap,materialui,styledcomponents,tailwind,python,jest,fastapi,django,firebase,sqlite,mongodb,vscode,postman,git,github,githubactions,wordpress,docker,vscode&theme=dark&perline=5)](https://skillicons.dev)
 ![Frontend Developer](https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif)
 
 - Programming Languages: TypeScript, JavaScript, Python
